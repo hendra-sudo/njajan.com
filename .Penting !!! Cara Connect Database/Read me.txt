@@ -1,0 +1,20 @@
+cara conect Project ke database !!
+
+- buka Xampp
+- klik start Apache dan MySQL
+- pastikan sudah terhubung dan berhasil conect
+
+- buka google/chrome
+- buka http://localhost/phpmyadmin/
+- klik new
+- buat database bernama njajan.com sesuia dengan gambar ( Gambar Database ) yang bewarna kuning
+- klik import 
+- masukkan file ( njajan_com.sql )masukkannya 
+- kalau format databasenya sudah sama dengan gambar dan sesuai yang dilingkari garis hitam ( Gambar Database ) berarti sudah bisa
+
+- buka netbeans
+- klik file, lalu open project
+- cari file  filenya lalu klik open project
+
+- buka gogle
+- lalu buka " http://localhost/njajan.com/ "
