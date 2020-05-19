@@ -44,13 +44,13 @@ $stok = $res['stok'];
 					<div class="col-lg-12">
 						<form class="form-horizontal" method="POST" enctype="multipart/form-data">
 							<div class="panel panel-default">
-								<div class="panel-heading"><h3>Tambah Barang/Jasa</h3></div>
+								<div class="panel-heading"><h3>Pilih Jajanan/Minuman</h3></div>
 								<br/>
 								<div class="form-group">
 									<label class="control-label col-sm-3">Barang</label>
 									<div class="col-sm-4">
 										<select name="brg" id="brg" class="form-control" required>
-											<option value="">==== Pilih Barang/Jasa ====</option>
+											<option value="">==== Pilih Jajanan/Minuman ====</option>
 											<?php
 											$sql_brg = "SELECT * FROM barangjasa WHERE stok!=0 AND id_brg NOT IN (SELECT id_brg FROM tmp_trx WHERE status='On Process') ORDER BY nama ASC";
 											$ress_brg = mysqli_query($conn, $sql_brg);

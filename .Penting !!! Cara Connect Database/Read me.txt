@@ -18,3 +18,11 @@ cara conect Project ke database !!
 
 - buka gogle
 - lalu buka " http://localhost/njajan.com/ "
+
+
+
+
+
+ userame = admin / Password = admin (admin)
+ username = kasir / Password = Password (kasir)
+ 
