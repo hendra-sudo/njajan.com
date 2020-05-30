@@ -33,7 +33,8 @@
 	<![endif]-->
 </head>
 
-<body style="background-color: #f1f4f7">
+<body  style="background:url('foto/baground_login5.jpg') ">
+
 
 	<section id="main-wrapper" style="margin-top: 120px">
 		<div class="container-fluid">
@@ -41,7 +42,7 @@
 				<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4"><?php include("layout_alert.php"); ?></div>
 			</div><!-- /.row -->
 			<div class="row">
-				<div id="page-wrapper" class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4" style="background-color: #ffffff; border-radius: 3px; webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05); box-shadow: 0 1px 1px rgba(0,0,0,.05)">
+				<div id="page-wrapper" class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4" style="background-color: #BCD3D4; border-radius: 10px; webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05); box-shadow: 0 1px 1px rgba(0,0,0,.05)">
 					<div class="row">
 						<div class="col-lg-12">
 							<br/>
@@ -51,8 +52,8 @@
 					</div><!-- /.row -->
 					<div class="row">
 						<div class="col-lg-12">
-							<div class="panel panel-default">
-								<div class="panel-body">
+							<div class="panel panel-default" style="background-color: #BCD3D4;>
+								<div class="panel-body" >
 									<form action="login_auth.php" method="post">
 										<div class="form-group">
 											<input type="text" class="form-control" name="username" placeholder="Username" required>

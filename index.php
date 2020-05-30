@@ -26,9 +26,9 @@
                     </div><!-- /.col-lg-12 -->
                 </div><!-- /.row -->
 				
-				<div class="row">
-					<div class="col-lg-6 col-md-6">
-						<div class="panel panel-primary">
+				<div class="row" >
+					<div class="col-lg-6 col-md-6" >
+						<div class="panel panel-primary" >
 							<div class="panel-heading">
 								<div class="row">
 									<div class="col-xs-3">
@@ -41,7 +41,7 @@
 								</div>
 							</div>
 							<a href="trx.php">
-								<div class="panel-footer">
+								<div class="panel-footer" >
 									<span class="pull-left">Lihat Rincian</span>
 									<span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
 									<div class="clearfix"></div>
@@ -51,7 +51,7 @@
 					</div><!-- /.panel-green -->
 					
 					<div class="col-lg-6 col-md-6">
-						<div class="panel panel-yellow">
+						<div class="panel panel-yellow" >
 							<div class="panel-heading">
 								<div class="row">
 									<div class="col-xs-3">
