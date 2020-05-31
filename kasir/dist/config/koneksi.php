@@ -4,7 +4,7 @@
   $dbhost = "localhost";
   $dbuser = "root";
   $dbpass = "";
-  $dbname = "simbengkel_db";
+  $dbname = "njajan.com";
 
   $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname) or die("Tidak dapat terhubung ke database: ".mysqli_error());
 ?>

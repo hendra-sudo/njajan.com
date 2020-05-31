@@ -10,7 +10,7 @@
 
 	<title>Njajan.com  <?php echo $pagedesc ?></title>
 
-	<link href=Logo_new.png rel="icon" type="images/x-icon">
+	<link href=beranda_logo.png rel="icon" type="images/x-icon">
 
 	<!-- Bootstrap Core CSS -->
 	<link href="libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">

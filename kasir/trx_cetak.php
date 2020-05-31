@@ -57,9 +57,9 @@
 							<img src="foto/Logo_new.png" alt="logo-dkm" width="70" />
 						</td>
 						<td class="text-center" width="60%">
-						<b>Bengkel Mantap Jiwa</b> <br>
-						Bekasi<br>
-						Telp: (021) 192819189<br>
+						<b>Njajan.com</b> <br>
+						Jember, Jawa Timur<br>
+						Telp: 089605885414<br>
 						<td class="text-right" width="20%">
 						</td>
 					</tr>

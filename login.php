@@ -46,7 +46,7 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<br/>
-							<center><img src="foto/Logo_new.png" width="120" height="120"></center>
+							<center><img src="foto/beranda_logo.png" width="120" height="120"></center>
 							<h2 class="text-center">Njajan.com</h2>
 						</div>
 					</div><!-- /.row -->

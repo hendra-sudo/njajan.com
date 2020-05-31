@@ -21,7 +21,7 @@
 
 	<title>Njajan.com - <?php echo $pagedesc ?></title>
 
-	<link rel="icon" href="foto/beranda_logo.png">
+	<link href="foto/beranda_logo.png" rel="icon" type="images/x-icon">
 
     <!-- Bootstrap Core CSS -->
 	<link href="libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -67,14 +67,12 @@
 					<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand hidden-xs" href="index.php">
-					
-					<img src="foto/beranda_logo.png" width="10" height="10" alt="">
+					<img src="foto/beranda_logo.png" alt="brand" width="32" class="float-left image-brand">
 					<div class="float-right">&nbsp;<strong>Njajan.com</strong></div>
 					<div class="clear-both"></div>
 				</a>
 				<a class="navbar-brand visible-xs" href="index.php">
-					
-					<img src="foto/beranda_logo.png" width="10" height="10" alt="">
+					<img src="foto/beranda_logo.png" alt="brand" width="32" class="float-left image-brand">
 					<div class="float-right">&nbsp;<strong>Njajan.com</strong></div>
 					<div class="clear-both"></div>
 				</a>
